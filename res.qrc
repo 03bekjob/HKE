@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/cascade.png</file>
+        <file>img/closeall.png</file>
+        <file>img/closeone.png</file>
+        <file>img/closetab.png</file>
+        <file>img/exit.png</file>
+        <file>img/print.png</file>
+        <file>img/tile.png</file>
+        <file>img/turn.png</file>
+        <file>img/barcode.png</file>
+        <file>Fonts/code128.ttf</file>
+        <file>Fonts/ean13.ttf</file>
+        <file>img/download32.png</file>
+        <file>img/Exit48.png</file>
+        <file>img/LogOut32.png</file>
+        <file>img/reload32.png</file>
+        <file>img/save32.png</file>
+        <file>img/select32.png</file>
+        <file>img/uncheck32.png</file>
+        <file>img/logoE.png</file>
+        <file>img/logoE48.png</file>
+        <file>img/logoE56.png</file>
+        <file>img/table32.png</file>
+        <file>img/search.png</file>
+        <file>img/next32.png</file>
+    </qresource>
+</RCC>
